@@ -1,0 +1,11 @@
+LEATHER:
+  effect: FAST_DIGGING
+  amplifier: 0
+
+GOLD:
+  effect: SPEED
+  amplifier: 0
+
+CHAIN:
+  effect: LUCK
+  amplifier: 0

@@ -1,0 +1,5 @@
+name: ArmorSetBonuses
+version: ${project.version}
+main: me.robertlit.armorsetbonuses.ArmorSetBonuses
+api-version: 1.16
+authors: [robertlit]
